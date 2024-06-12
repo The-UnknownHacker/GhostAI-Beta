@@ -93,7 +93,7 @@ BEGIN
         TRUE,
         'Home',
         4096,
-        'gemini-pro', -- Updated default model
+        'gemini-1.5-flash', -- Updated default model
         'You are a friendly, helpful AI assistant.',
         0.5,
         'My home workspace.',
